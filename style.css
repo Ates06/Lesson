@@ -1,0 +1,73 @@
+body{
+    background-color: antiquewhite;
+}
+
+.main{
+    width: 800px;
+    height: 500px;
+    float: left;
+    /* margin-left: 350px;
+    margin-top: 70px; */
+    border-radius: 5px;
+    background-color: white;
+    position: absolute;
+    top:50px;
+    left: 350px;
+}
+
+.yazi{
+    /* margin-left: 200px;
+    margin-top: 200px; */
+    float: left;
+    position: absolute;
+    top: 409px;
+    left: 580px;;
+}
+
+.main2{
+    background-image: url("https://images.unsplash.com/photo-1476820865390-c52aeebb9891?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YmFja2dyb3VuZCUyMHBpY3xlbnwwfHwwfHw%3D&w=1000&q=80");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: left;
+    width: 800px;
+    height: 430px;
+    color: aliceblue; 
+    font-size: 40px;
+    border-radius: 5px;
+}
+
+.header{
+    width: 800px;
+    height: 70px;
+    float: left;
+    
+}
+
+.sol{
+    width: 200px;
+    height: 70px;
+    float: left;
+    box-sizing: border-box;
+    padding-left: 45px;
+    padding-top: 25px;
+    font-size: 20px;
+}
+
+.sag{
+    width: 500px;
+    height: 70px;
+    background-color: aqua;
+    float: left;
+    margin-left: 100px;
+}
+
+ul li{
+    list-style: none;
+    display: inline-block;
+    margin-left: 50px;
+    margin-top: 15px;
+    font-size: 10px;
+}
+
+
