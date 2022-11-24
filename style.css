@@ -22,6 +22,7 @@ body{
     position: absolute;
     top: 303px;
     left: 258px;
+
 }
 
 .main2{
@@ -52,6 +53,7 @@ body{
     padding-left: 45px;
     padding-top: 25px;
     font-size: 20px;
+    color: brown;
 }
 
 .sag{
@@ -69,5 +71,6 @@ ul li{
     margin-top: 15px;
     font-size: 10px;
 }
+
 
 
